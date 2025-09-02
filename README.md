@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yus-raa
-- 👀 I’m interested in Web Development, Artificial Intelligence, and Python programming.
-- 🌱 I’m currently learning Web Development, Python , Data Analysis, Android Development and advancing my skills in Software Engineering.
-- 💞️ I’m looking to collaborate on innovative projects that combine Web Development and AI, and contribute to open-source initiatives that promote learning and growth.
+- 👀 I’m interested in **Web Development, Artificial Intelligence, Machine Learning**. 
+- 🌱 I’m currently learning **MERN-Stack, Machine Learning, and AI engineering**
+- 💞️ I’m looking to collaborate on **open-source projects, frontend/backend web apps, and beginner-friendly ML projects**. 
 - 📫 How to reach me: www.linkedin.com/in/yusrayaseen
 - 😄 Pronouns: She/Her
 
