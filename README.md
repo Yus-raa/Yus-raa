@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Web Development, Artificial Intelligence, Machine Learning**. 
 - 🌱 I’m currently learning **MERN-Stack, Machine Learning, and AI engineering**
 - 💞️ I’m looking to collaborate on **open-source projects, frontend/backend web apps, and beginner-friendly ML projects**. 
-- 📫 How to reach me: www.linkedin.com/in/yusrayaseen
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yusrayaseen)
 - 😄 Pronouns: She/Her
 
 <!---
